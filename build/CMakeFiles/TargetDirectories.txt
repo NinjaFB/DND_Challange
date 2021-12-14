@@ -1,0 +1,3 @@
+/home/oscar/COde/C/DND_Challange/build/CMakeFiles/rebuild_cache.dir
+/home/oscar/COde/C/DND_Challange/build/CMakeFiles/edit_cache.dir
+/home/oscar/COde/C/DND_Challange/build/CMakeFiles/DndChallenge.dir
